@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkebinc_docs=self.webpackChunkebinc_docs||[]).push([[177],{5877:s=>{s.exports=JSON.parse('{"label":"hola","permalink":"/ebinc-docs/blog/tags/hola","allTagsPath":"/ebinc-docs/blog/tags","count":1,"unlisted":false}')}}]);
